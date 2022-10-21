@@ -4,7 +4,7 @@ website
 
 ## Sections
 
-- Logo + Navigation
+- Logo + Navigation 🏗
 - Hero
 - Featured in / icon
 - How it works / history

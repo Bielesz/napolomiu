@@ -1,0 +1,48 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  /* 1rem = 10 px */
+  font-size: 62.5%;
+}
+
+body {
+  font-family: sans-serif;
+  /* line-height: 1;
+  font-weight: 400; */
+  color: #666;
+}
+
+.heder {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  height: 9.6rem;
+  padding: 0 4.8rem;
+}
+
+.main-nav-ul {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.main-nav-li:link,
+.main-nav-li:visited {
+  display: inline-block;
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+  font-size: 1.8rem;
+  transition: all 0.3s;
+}
+
+.main-nav-li:hover,
+.main-nav-li:active {
+  color: red;
+}
