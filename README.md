@@ -1,3 +1,3 @@
-# Agroturystka na Połomiu
+# Agroturystyka na Połomiu
 
 website
