@@ -286,6 +286,7 @@ h4 {
 .operations__tab-container {
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 .operations__tab {
@@ -302,17 +303,13 @@ h4 {
 .contacts {
   font-size: 2rem;
   color: #444;
+  margin-bottom: 5rem;
 }
 
 .footer-link:link,
 .footer-link:visited {
   text-decoration: none;
   color: #444;
-}
-
-.address-col {
-  display: flex;
-  gap: 10rem;
 }
 
 .operations__tab--1 {
