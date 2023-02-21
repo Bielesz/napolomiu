@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Noclegi w Istebnej</description>
-	<lastBuildDate>Tue, 14 Feb 2023 13:07:28 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 21 Feb 2023 18:55:10 +0000</lastBuildDate>
 	<language>pl-PL</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,48 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
+		<title>Optimize your Blog for Search Engines &#038; Track Performance</title>
+		<link>/2023/02/21/optimize-your-blog-for-search-engines-track-performance/</link>
+					<comments>/2023/02/21/optimize-your-blog-for-search-engines-track-performance/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 21 Feb 2023 18:45:58 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=2436</guid>
+
+					<description><![CDATA[Google Analytics allows you to track the performance of your users. It is always best practice to set up analytics when setting up in order to get a benchmark on performance.&#160; WordPress is a versatile, flexible content management system used by nearly a third of the world’s websites. With a suite of tools and features &#8230;<p class="read-more"> <a class="" href="/2023/02/21/optimize-your-blog-for-search-engines-track-performance/"> <span class="screen-reader-text"><strong>Optimize your Blog for Search Engines &#38; Track Performance</strong></span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Google Analytics allows you to track the performance of your users. It is always best practice to set up analytics when setting up in order to get a benchmark on performance.&nbsp;</p>
+
+
+
+<ul>
+<li>make sure you have a Google account</li>
+
+
+
+<li>create a GA (Google Analytics) Account</li>
+
+
+
+<li>generate a tracking code</li>
+
+
+
+<li>add the code to WordPress via a plugin</li>
+</ul>
+
+
+
+<p>WordPress is a versatile, flexible content management system used by nearly a third of the world’s websites. With a suite of tools and features for building blogs of all kinds, WordPress makes it easy for anyone to publish and share content across the globe. And if you’re ever feeling lost or stuck, the great news is the WordPress community is large, offering a myriad of forums, support resources, and step-by-step guides for common tasks.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2023/02/21/optimize-your-blog-for-search-engines-track-performance/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Szlaki i Szczyty w Beskidach</title>
 		<link>/2023/02/13/szlakiszlaki-i-szczyty-w-beskidzie-slaskimszlaki/</link>
 					<comments>/2023/02/13/szlakiszlaki-i-szczyty-w-beskidzie-slaskimszlaki/#respond</comments>
@@ -35,7 +77,7 @@
 
 
 
-<div class="wp-block-uagb-image uagb-block-d5c330e7 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure class="wp-block-uagb-image__figure"><img decoding="async" srcset="/wp-content/uploads/2023/02/img2.webp " src="/wp-content/uploads/2023/02/img2.webp" alt="" class="uag-image-1470" title="" loading="lazy"/></figure></div>
+<div class="wp-block-uagb-image uagb-block-d23972af wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure class="wp-block-uagb-image__figure"><img decoding="async" srcset=" " src="" alt="" width="" height="" title="" loading="lazy"/></figure></div>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2023/02/13/szlakiszlaki-i-szczyty-w-beskidzie-slaskimszlaki/feed/</wfw:commentRss>
@@ -59,7 +101,7 @@
 
 
 
-<div class="wp-block-uagb-image uagb-block-746ed094 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure class="wp-block-uagb-image__figure"><img decoding="async" srcset="/wp-content/uploads/2023/02/img6.webp " src="/wp-content/uploads/2023/02/img6.webp" alt="" class="uag-image-1468" title="" loading="lazy"/></figure></div>
+<div class="wp-block-uagb-image uagb-block-218504c7 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure class="wp-block-uagb-image__figure"><img decoding="async" srcset="/wp-content/uploads/2023/02/potted-plant-1-1.png " src="/wp-content/uploads/2023/02/potted-plant-1-1.png" alt="" class="uag-image-2277" title="" loading="lazy"/></figure></div>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2023/02/13/zbieranie-ziol/feed/</wfw:commentRss>
