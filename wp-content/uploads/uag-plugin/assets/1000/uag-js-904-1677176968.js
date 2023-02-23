@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function(){ var ssLinks = document.querySelectorAll( '.uagb-block-7e44fb92' );
+document.addEventListener("DOMContentLoaded", function(){ var ssLinks = document.querySelectorAll( '.uagb-block-988f840c' );
 for ( var j = 0; j < ssLinks.length; j++ ) {
 	var ssLink = ssLinks[j].querySelectorAll( ".uagb-ss__link" );
 	for ( var i = 0; i < ssLink.length; i++ ) {
