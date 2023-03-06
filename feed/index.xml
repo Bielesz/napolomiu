@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Agro2</title>
+	<title>Agroturystyka na Połomiu</title>
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description></description>
-	<lastBuildDate>Tue, 28 Feb 2023 14:19:52 +0000</lastBuildDate>
+	<description>Istebna Noclegi</description>
+	<lastBuildDate>Mon, 06 Mar 2023 16:47:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,28 +22,101 @@
 
 <image>
 	<url>/wp-content/uploads/2023/02/cropped-android-chrome-512x512-1-32x32.png</url>
-	<title>Agro2</title>
+	<title>Agroturystyka na Połomiu</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Hello world!</title>
-		<link>/hello-world/</link>
-					<comments>/hello-world/#comments</comments>
+		<title>Nalewka z dziurawca</title>
+		<link>/nalewka-z-dziurawca/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Tue, 28 Feb 2023 14:19:52 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<pubDate>Sun, 05 Mar 2023 20:08:21 +0000</pubDate>
+				<category><![CDATA[Zioła]]></category>
+		<guid isPermaLink="false">/?p=3626</guid>
 
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
-										<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-]]></content:encoded>
+					<description><![CDATA[Renata Bielesz March 5, 2023 Zioła Nalewka z dziurawca Niezależnie od tego, czy twój garaż jest samotnią i oazą, czy też właśnie zaczynasz prowadzić tam biznes – a może prowadzisz go już od lat? – lista sprzętu potrzebnego do działania jest dość długa. Drobne naprawy można wykonać za pomocą podstawowych narzędzi mieszczących się w niewielkiej &#8230;<p class="read-more"> <a class="" href="/nalewka-z-dziurawca/"> <span class="screen-reader-text">Nalewka z dziurawca</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="3626" class="elementor elementor-3626">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-4ba84e4 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-id="4ba84e4" data-element_type="section" data-settings="{&quot;_ha_eqh_enable&quot;:false}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-1bf0451" data-id="1bf0451" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-c73143b" data-id="c73143b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-353cd8d elementor-widget elementor-widget-ha-post-info happy-addon ha-post-info" data-id="353cd8d" data-element_type="widget" data-widget_type="ha-post-info.default">
+				<div class="elementor-widget-container">
+					<ul class="ha-inline-items ha-icon-list-items ha-post-info">
+					<li class="ha-icon-list-item elementor-repeater-item-7a30265 ha-inline-item">
+										<span class="ha-icon-list-icon">
+								<i aria-hidden="true" class="far fa-tags"></i>							</span>
+									<span class="ha-icon-list-text ha-post-info__item ha-post-info__item--type-custom">
+										Renata Bielesz					</span>
+								</li>
+				<li class="ha-icon-list-item elementor-repeater-item-752154c ha-inline-item" itemprop="datePublished">
+						<a href="/2023/03/05/">
+											<span class="ha-icon-list-icon">
+								<i aria-hidden="true" class="fas fa-calendar"></i>							</span>
+									<span class="ha-icon-list-text ha-post-info__item ha-post-info__item--type-date">
+										March 5, 2023					</span>
+									</a>
+				</li>
+				<li class="ha-icon-list-item elementor-repeater-item-1653625 ha-inline-item" itemprop="about">
+										<span class="ha-icon-list-icon">
+								<i aria-hidden="true" class="fas fa-tags"></i>							</span>
+									<span class="ha-icon-list-text ha-post-info__item ha-post-info__item--type-terms">
+										<span class="ha-post-info__terms-list">
+				<a href="/category/ziola/" class="ha-post-info__terms-list-item">Zioła</a>				</span>
+					</span>
+								</li>
+				</ul>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3538f0f elementor-widget elementor-widget-ha-post-title happy-addon ha-post-title" data-id="3538f0f" data-element_type="widget" data-widget_type="ha-post-title.default">
+				<div class="elementor-widget-container">
+			<h2 class="ha-post-title elementor-size-default">Nalewka z dziurawca</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-236a11d elementor-widget elementor-widget-ha-post-featured-image happy-addon ha-post-featured-image" data-id="236a11d" data-element_type="widget" data-widget_type="ha-post-featured-image.default">
+				<div class="elementor-widget-container">
+			<img width="768" height="576" src="/wp-content/uploads/2023/03/IMG_2525-768x576.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" decoding="async" srcset="/wp-content/uploads/2023/03/IMG_2525-768x576.jpg 768w, /wp-content/uploads/2023/03/IMG_2525-300x225.jpg 300w, /wp-content/uploads/2023/03/IMG_2525-1024x768.jpg 1024w, /wp-content/uploads/2023/03/IMG_2525-1536x1152.jpg 1536w, /wp-content/uploads/2023/03/IMG_2525-2048x1536.jpg 2048w" sizes="(max-width: 768px) 100vw, 768px" />		</div>
+				</div>
+				<div class="elementor-element elementor-element-74dc7546 elementor-widget elementor-widget-text-editor" data-id="74dc7546" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.11.2 - 22-02-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p><!-- wp:paragraph --></p>
+<p>Niezależnie od tego, czy twój garaż jest samotnią i oazą, czy też właśnie zaczynasz prowadzić tam biznes – a może prowadzisz go już od lat? – lista sprzętu potrzebnego do działania jest dość długa. Drobne naprawy można wykonać za pomocą podstawowych narzędzi mieszczących się w niewielkiej skrzynce, ale… apetyt rośnie w miarę jedzenia, czyli naprawiania. Po kilku garażowych sukcesach i udanym nasmarowaniu, dokręceniu i załataniu przychodzi pora na coś więcej. Masz ochotę przywrócić starą maszynę do życia? Odświeżyć wygląd rodzinnej pamiątki? A może przerobić jakiś sprzęt tak, by lepiej spełniał twoje wymagania i dłużej służył? To wszystko jest w twoim zasięgu – ale może się okazać, że komplet kluczy i śrubokręt już nie wystarczą. Doskonale to wiesz również wtedy, gdy planujesz zarabiać na swoich zdolnościach manualnych i technicznych. sss</p>
+<p><!-- /wp:paragraph --></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-240805c elementor-widget elementor-widget-wpr-post-navigation" data-id="240805c" data-element_type="widget" data-widget_type="wpr-post-navigation.default">
+				<div class="elementor-widget-container">
+			<div class="wpr-post-navigation-wrap elementor-clearfix wpr-post-nav-static-wrap wpr-post-nav-dividers"><div class="wpr-post-nav-prev wpr-post-navigation wpr-post-nav-static"></div><div class="wpr-post-nav-divider"></div><div class="wpr-post-nav-next wpr-post-navigation wpr-post-nav-static"></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1e243b9 elementor-align-center elementor-widget elementor-widget-button" data-id="1e243b9" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="/blog/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-icon elementor-align-icon-left">
+				<i aria-hidden="true" class="fas fa-arrow-left"></i>			</span>
+						<span class="elementor-button-text">Blog</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-d4d6199" data-id="d4d6199" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
 					
-					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
 		
 		
 			</item>
