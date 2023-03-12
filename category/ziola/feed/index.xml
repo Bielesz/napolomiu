@@ -12,7 +12,7 @@
 	<atom:link href="/category/ziola/feed/" rel="self" type="application/rss+xml" />
 	<link>/category/ziola/</link>
 	<description></description>
-	<lastBuildDate>Thu, 09 Mar 2023 09:38:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 12 Mar 2023 14:33:29 +0000</lastBuildDate>
 	<language>pl-PL</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -92,7 +92,7 @@
 				</div>
 				<div class="elementor-element elementor-element-240805c elementor-widget elementor-widget-wpr-post-navigation" data-id="240805c" data-element_type="widget" data-widget_type="wpr-post-navigation.default">
 				<div class="elementor-widget-container">
-			<div class="wpr-post-navigation-wrap elementor-clearfix wpr-post-nav-static-wrap wpr-post-nav-dividers"><div class="wpr-post-nav-prev wpr-post-navigation wpr-post-nav-static"></div><div class="wpr-post-nav-divider"></div><div class="wpr-post-nav-next wpr-post-navigation wpr-post-nav-static"></div></div>		</div>
+			<div class="wpr-post-navigation-wrap elementor-clearfix wpr-post-nav-static-wrap wpr-post-nav-dividers"><div class="wpr-post-nav-prev wpr-post-navigation wpr-post-nav-static"></div><div class="wpr-post-nav-divider"></div><div class="wpr-post-nav-next wpr-post-navigation wpr-post-nav-static"><a href="/ccc/" class="elementor-clearfix"><div class="wpr-post-nav-labels"><span>Następny wpis</span></div><div class="wpr-posts-navigation-svg-wrapper"><svg style="transform: rotate(180deg); -webkit-transform: rotate(180deg);" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 303.3 512" style="enable-background:new 0 0 303.3 512;" xml:space="preserve"><g><polygon class="st0" points="94.7,256 303.3,464.6 256,512 47.3,303.4 0,256 47.3,208.6 256,0 303.3,47.4 "/></g></svg></div></a></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-8636a92 elementor-widget elementor-widget-text-editor" data-id="8636a92" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">

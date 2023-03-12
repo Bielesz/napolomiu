@@ -12,7 +12,7 @@
 	<atom:link href="/author/admin/feed/" rel="self" type="application/rss+xml" />
 	<link>/author/admin/</link>
 	<description></description>
-	<lastBuildDate>Thu, 09 Mar 2023 09:38:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 12 Mar 2023 14:33:29 +0000</lastBuildDate>
 	<language>pl-PL</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,55 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>ccc</title>
+		<link>/ccc/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 09 Mar 2023 09:40:18 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=4017</guid>
+
+					<description><![CDATA[<p>KONTAKT cccc</p>
+<p>Artykuł <a rel="nofollow" href="/ccc/">ccc</a> pochodzi z serwisu <a rel="nofollow" href="/">Noclegi Istebna | Gospodarstwo agroturystyczne | Agroturystyka na Połomiu</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="4017" class="elementor elementor-4017">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-6dbf102 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-id="6dbf102" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;_ha_eqh_enable&quot;:false}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2a34105" data-id="2a34105" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3f1cfaf elementor-widget elementor-widget-heading" data-id="3f1cfaf" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.11.3 - 07-03-2023 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h1 class="elementor-heading-title elementor-size-default">KONTAKT</h1>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-40c4ce07 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-id="40c4ce07" data-element_type="section" data-settings="{&quot;_ha_eqh_enable&quot;:false}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-32ae896e" data-id="32ae896e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-655d8942 elementor-widget elementor-widget-text-editor" data-id="655d8942" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.11.3 - 07-03-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<!-- wp:paragraph -->
+<p>cccc</p>
+<!-- /wp:paragraph -->						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		<p>Artykuł <a rel="nofollow" href="/ccc/">ccc</a> pochodzi z serwisu <a rel="nofollow" href="/">Noclegi Istebna | Gospodarstwo agroturystyczne | Agroturystyka na Połomiu</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Pokrzywa i jej właściwości zdrowotne oraz co można z niej zrobić</title>
 		<link>/pokrzywa/</link>
 		
@@ -87,12 +136,11 @@
 				</div>
 				<div class="elementor-element elementor-element-74dc7546 elementor-widget elementor-widget-text-editor" data-id="74dc7546" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.11.3 - 07-03-2023 */
-.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Pokrzywa to roślina zielna, która rośnie dziko w różnych regionach świata. Jest popularnym składnikiem wielu tradycyjnych medycyn ludowych i znajduje zastosowanie zarówno w kuchni, jak i kosmetyce. Pokrzywa posiada wiele cennych właściwości, w tym m.in. przeciwzapalne, przeciwbakteryjne, przeciwgrzybicze, moczopędne i przeciwhistaminowe.</p><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"> </p>						</div>
+							<p>Pokrzywa to roślina zielna, która rośnie dziko w różnych regionach świata. Jest popularnym składnikiem wielu tradycyjnych medycyn ludowych i znajduje zastosowanie zarówno w kuchni, jak i kosmetyce. Pokrzywa posiada wiele cennych właściwości, w tym m.in. przeciwzapalne, przeciwbakteryjne, przeciwgrzybicze, moczopędne i przeciwhistaminowe.</p><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"> </p>						</div>
 				</div>
 				<div class="elementor-element elementor-element-240805c elementor-widget elementor-widget-wpr-post-navigation" data-id="240805c" data-element_type="widget" data-widget_type="wpr-post-navigation.default">
 				<div class="elementor-widget-container">
-			<div class="wpr-post-navigation-wrap elementor-clearfix wpr-post-nav-static-wrap wpr-post-nav-dividers"><div class="wpr-post-nav-prev wpr-post-navigation wpr-post-nav-static"></div><div class="wpr-post-nav-divider"></div><div class="wpr-post-nav-next wpr-post-navigation wpr-post-nav-static"></div></div>		</div>
+			<div class="wpr-post-navigation-wrap elementor-clearfix wpr-post-nav-static-wrap wpr-post-nav-dividers"><div class="wpr-post-nav-prev wpr-post-navigation wpr-post-nav-static"></div><div class="wpr-post-nav-divider"></div><div class="wpr-post-nav-next wpr-post-navigation wpr-post-nav-static"><a href="/ccc/" class="elementor-clearfix"><div class="wpr-post-nav-labels"><span>Następny wpis</span></div><div class="wpr-posts-navigation-svg-wrapper"><svg style="transform: rotate(180deg); -webkit-transform: rotate(180deg);" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 303.3 512" style="enable-background:new 0 0 303.3 512;" xml:space="preserve"><g><polygon class="st0" points="94.7,256 303.3,464.6 256,512 47.3,303.4 0,256 47.3,208.6 256,0 303.3,47.4 "/></g></svg></div></a></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-8636a92 elementor-widget elementor-widget-text-editor" data-id="8636a92" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">

@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Komentarze do Noclegi Istebna | Gospodarstwo agroturystyczne | Agroturystyka na Połomiu	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	Komentarze do: ccc	</title>
+	<atom:link href="/ccc/feed/" rel="self" type="application/rss+xml" />
+	<link>/ccc/</link>
 	<description></description>
-	<lastBuildDate>Sun, 12 Mar 2023 15:30:55 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 12 Mar 2023 14:28:24 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
