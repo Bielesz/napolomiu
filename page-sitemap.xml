@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2023-03-11T17:42:01+00:00</lastmod>
+		<lastmod>2023-03-12T09:28:57+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/Scan_4_Mar_2023_at_12.03-removebg-preview.png</image:loc>
 		</image:image>
@@ -28,10 +28,6 @@
 		<lastmod>2023-03-11T15:37:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/atrakcje/</loc>
-		<lastmod>2023-03-11T15:59:46+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/atrakcje/atrakcje-koniakow/</loc>
 		<lastmod>2023-03-11T16:13:27+00:00</lastmod>
 	</url>
@@ -48,83 +44,12 @@
 		<lastmod>2023-03-11T16:22:46+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/atrakcje/trojwies-restauracje/</loc>
-		<lastmod>2023-03-11T16:25:30+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/galeria/</loc>
-		<lastmod>2023-03-11T16:27:37+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/IMG_E2083-768x576.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/IMG_0339-768x576.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/IMG_0746-768x576.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/IMG_0889-768x576.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/IMG_1030-768x576.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/IMG_1031-768x576.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/IMG_8461-768x576.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/IMG_1079-768x576.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/IMG_8466-768x576.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/IMG_1081-768x576.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/IMG_8465-768x576.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/IMG_1083-768x576.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/IMG_9419-768x576.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/IMG_9409-768x576.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/IMG_9405-768x576.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/IMG_0376-768x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/IMG_0377-768x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/IMG_0033-768x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/IMG_9418-768x576.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/IMG_0026-768x576.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/IMG_9425-768x576.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/atrakcje/atrakcje-istebna/</loc>
 		<lastmod>2023-03-11T16:27:52+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/cennik/</loc>
-		<lastmod>2023-03-11T16:43:17+00:00</lastmod>
+		<lastmod>2023-03-12T08:39:22+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/pokoj7-300x300.webp</image:loc>
 		</image:image>
@@ -137,6 +62,88 @@
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/pokoj6-300x300.webp</image:loc>
 		</image:image>
+	</url>
+	<url>
+		<loc>/blog/</loc>
+		<lastmod>2023-03-12T08:49:47+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/paul-morley-DrYqMhk53dY-unsplash-300x225.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/galeria/</loc>
+		<lastmod>2023-03-12T09:06:15+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/IMG_E2083-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/IMG_0339-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/IMG_0746-scaled.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/IMG_0889-scaled.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/IMG_1030-scaled.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/IMG_1031-scaled.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/IMG_8461-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/IMG_1079-scaled.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/IMG_8466-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/IMG_1081-scaled.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/IMG_8465-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/IMG_1083-scaled.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/IMG_9419-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/IMG_9409-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/IMG_9405-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/IMG_0376-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/IMG_0377-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/IMG_0033-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/IMG_9418-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/IMG_0026-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/IMG_9425-scaled.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/atrakcje/</loc>
+		<lastmod>2023-03-12T09:25:50+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/atrakcje/trojwies-restauracje/</loc>
+		<lastmod>2023-03-12T09:26:47+00:00</lastmod>
 	</url>
 </urlset>
 <!-- XML Sitemap generated by Yoast SEO -->
