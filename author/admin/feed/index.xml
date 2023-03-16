@@ -13,7 +13,7 @@
 	<link>/author/admin/</link>
 	<description></description>
 	<lastBuildDate>Sun, 12 Mar 2023 14:33:29 +0000</lastBuildDate>
-	<language>pl-PL</language>
+	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -116,7 +116,7 @@
 											<span class="ha-icon-list-icon">
 								<i aria-hidden="true" class="fas fa-calendar"></i>							</span>
 									<span class="ha-icon-list-text ha-post-info__item ha-post-info__item--type-date">
-										5 marca, 2023					</span>
+										March 5, 2023					</span>
 									</a>
 				</li>
 				<li class="ha-icon-list-item elementor-repeater-item-1653625 ha-inline-item" itemprop="about">
